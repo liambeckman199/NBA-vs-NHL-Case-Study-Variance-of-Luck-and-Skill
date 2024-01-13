@@ -1,0 +1,1 @@
+Statistical analyses using Python and SQL to understand why underdog teams perform better in the NHL compared to the NBA. This involved studying variances in skill and luck in regular season performance, player minutes, and player salaries. The project concludes with suggested changes the NBA could implement to level the playing field for underdog teams.
